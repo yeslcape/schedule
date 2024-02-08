@@ -7,3 +7,7 @@
 ## 01.29 ~ 02.04
 3. [3차 n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 4. [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+
+## 02.05 ~ 02.18
+5. [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+6. [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
