@@ -18,9 +18,16 @@
 1. Array & ArrayList & LinkedList
 2. 스택(Stack) & 큐(Queue)
 
-## 02.19 ~ 03.02
+## 02.19 ~ 03.03
 ### algo
 1. [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 2. [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 ### cs
 1. Heap
+
+## 03.04 ~ 03.10
+### algo
+1. [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+2. [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+### cs
+1. 트리
