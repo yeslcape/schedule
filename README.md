@@ -32,7 +32,31 @@
 ### cs
 1. 트리
 
-### 03.11 ~
+## 03.11 ~ 3.17
 ### algo
 1. [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
 2. [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+### cs
+1. 이진탐색트리
+
+## 03.18 ~ 3.24
+### algo
+1. [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+2. [3차 파일명 저장](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+### cs
+1. 해시
+
+## 3.25 ~ 3.31
+### algo
+1. []()
+2. []()
+### cs
+1. 트라이
+
+## 4.1 ~ 4.7
+### algo
+1. []()
+2. []()
+### cs
+1. B-Tree & B+Tree
+
