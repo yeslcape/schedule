@@ -48,7 +48,7 @@
 
 ## 3.25 ~ 3.31
 ### algo
-1. [택배상자](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=2&languages=python3&page=3)
+1. [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 2. [1차 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
 ### cs
 1. 트라이
