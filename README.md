@@ -55,8 +55,8 @@
 
 ## 4.1 ~ 4.7
 ### algo
-1. []()
-2. []()
+1. [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+2. [2xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 ### cs
 1. B-Tree & B+Tree
 
