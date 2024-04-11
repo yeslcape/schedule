@@ -66,3 +66,10 @@
 2. [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 ### cs
 1. B+Tree
+
+## 
+### algo
+1. [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+2. [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+### cs
+1. 
