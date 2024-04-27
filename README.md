@@ -76,7 +76,7 @@
 
 ## 4.29 ~ 5.5
 ### algo
-1. [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
-2. [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+1. [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+2. [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 ### cs
 1. CPU 작동 원리 
