@@ -72,4 +72,11 @@
 1. [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 2. [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
 ### cs
-1. 컴퓨터구조 기초
+1. 컴퓨터 구성
+
+## 4.29 ~ 5.5
+### algo
+1. [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+2. [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+### cs
+1. CPU 작동 원리 
