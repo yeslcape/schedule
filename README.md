@@ -80,3 +80,17 @@
 2. [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 ### cs
 1. CPU 작동 원리 
+
+## 5.5 ~ 5.12
+### algo
+1. [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
+2. [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+### cs
+1. 캐시 메모리
+
+## 5.13 ~ 5.19
+### algo
+1. [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
+2. [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
+### cs
+1. 고정 소수점 & 부동 소수점
