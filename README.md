@@ -93,4 +93,25 @@
 1. [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
 2. [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
 ### cs
-1. 캐시 메모리
+1. 캐시 메모리
+
+## 5.20 ~ 5.26
+### algo
+1. [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+2. [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+### cs
+1. 고정 소수점 & 부동 소수점
+
+## 5.27 ~ 6.2
+### algo
+1. [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+2. [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+### cs
+1. 패리티 비트 & 해밍 코드
+
+## 6.3 ~ 6.9
+### algo
+1. [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+2. [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+### cs
+1. ARM 프로세서
