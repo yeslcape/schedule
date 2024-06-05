@@ -102,14 +102,14 @@
 ### cs
 1. 고정 소수점 & 부동 소수점
 
-## 5.27 ~ 6.2
+## 5.27 ~ 6.9
 ### algo
 1. [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 2. [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 ### cs
 1. 패리티 비트 & 해밍 코드
 
-## 6.3 ~ 6.9
+## 6.10 ~ 6.16
 ### algo
 1. [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 2. [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
