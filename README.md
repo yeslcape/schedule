@@ -113,5 +113,4 @@
 ### algo
 1. [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 2. [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
-### cs
-1. ARM 프로세서
+
